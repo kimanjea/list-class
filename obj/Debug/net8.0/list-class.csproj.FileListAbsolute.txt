@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\list-class\bin\Debug\net8.0\list-class.exe
+C:\Users\13608\Documents\GitHub\list-class\bin\Debug\net8.0\list-class.deps.json
+C:\Users\13608\Documents\GitHub\list-class\bin\Debug\net8.0\list-class.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\list-class\bin\Debug\net8.0\list-class.dll
+C:\Users\13608\Documents\GitHub\list-class\bin\Debug\net8.0\list-class.pdb
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.dll
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\refint\list-class.dll
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.pdb
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\list-class.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\list-class\obj\Debug\net8.0\ref\list-class.dll
